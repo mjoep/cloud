@@ -89,8 +89,5 @@ DOMAIN-SUFFIX,foursquare.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,lan.vmware
-DOMAIN-SUFFIX,lan.route
-DOMAIN-SUFFIX,lan.mini
-DOMAIN-KEYWORD,duolingo
+DOMAIN-SUFFIX,duolingo.com
 DOMAIN-KEYWORD,nytimes
