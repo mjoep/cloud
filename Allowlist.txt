@@ -2,3 +2,4 @@ act.vip.iqiyi.com^
 msg.video.qiyi.com^
 subscription.iqiyi.com^
 qy.net^
+google.com^
