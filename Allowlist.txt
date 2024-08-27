@@ -3,3 +3,4 @@ msg.video.qiyi.com^
 subscription.iqiyi.com^
 qy.net^
 google.com^
+baidu.com^
