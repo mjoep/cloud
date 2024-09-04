@@ -3,3 +3,4 @@ msg.video.qiyi.com^
 subscription.iqiyi.com^
 qy.net^
 vv.video.qq.com^
+17u.cn^
