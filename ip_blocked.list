@@ -8,3 +8,6 @@ IP-CIDR,208.105.217.1/24,no-resolve
 IP-CIDR,140.82.113.1/24,no-resolve
 IP-CIDR,3.219.239.1/24,no-resolve
 IP-CIDR,34.226.69.1/24,no-resolve
+IP-CIDR,104.16.98.1/24,no-resolve
+IP-CIDR,54.196.99.1/24,no-resolve
+IP-CIDR,104.16.100.1/24,no-resolve
