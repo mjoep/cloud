@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,blockchain.com
 DOMAIN-SUFFIX,overcast.fm
-DOMAIN-SUFFIX,docker.com
+DOMAIN-KEYWORD,docker.io
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,syncbits.com
 DOMAIN-SUFFIX,tw
