@@ -1,5 +1,4 @@
 DOMAIN-SUFFIX,hacs.xyz
-DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-WILDCARD,github
 DOMAIN-KEYWORD,debian
 DOMAIN-SUFFIX,openvpn.net
