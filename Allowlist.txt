@@ -4,3 +4,6 @@ subscription.iqiyi.com^
 qy.net^
 vv.video.qq.com^
 17u.cn^
+http-inputs-notion.splunkcloud.com^
+exp.notion.so^
+log.cmbchina.com^
