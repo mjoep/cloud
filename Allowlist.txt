@@ -1,5 +1,3 @@
-taobao.com^
-alipay.com^
 act.vip.iqiyi.com^
 msg.video.qiyi.com^
 subscription.iqiyi.com^
@@ -11,5 +9,3 @@ exp.notion.so^
 log.cmbchina.com^
 icloud.com^
 apple.com^
-mdap.alipay.com^
-hzshudian.com^
