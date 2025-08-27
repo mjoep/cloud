@@ -1,4 +1,5 @@
-atoken.m.taobao.com^
+taobao.com^
+alipay.com^
 act.vip.iqiyi.com^
 msg.video.qiyi.com^
 subscription.iqiyi.com^
