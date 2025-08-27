@@ -11,3 +11,4 @@ icloud.com^
 apple.com^
 mdap.alipay.com^
 hzshudian.com^
+atoken.m.taobao.com^
