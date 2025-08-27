@@ -10,3 +10,4 @@ log.cmbchina.com^
 icloud.com^
 apple.com^
 mdap.alipay.com^
+h-adashx.ut.hzshudian.com^
