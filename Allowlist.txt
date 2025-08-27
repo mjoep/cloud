@@ -10,5 +10,5 @@ log.cmbchina.com^
 icloud.com^
 apple.com^
 mdap.alipay.com^
-ut.hzshudian.com^
 adashx.ut.hzshudian.com^
+ut.hzshudian.com^
