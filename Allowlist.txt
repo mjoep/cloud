@@ -9,3 +9,4 @@ exp.notion.so^
 log.cmbchina.com^
 icloud.com^
 apple.com^
+mdap.alipay.com^
