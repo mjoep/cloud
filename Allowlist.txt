@@ -6,6 +6,3 @@ vv.video.qq.com^
 17u.cn^
 http-inputs-notion.splunkcloud.com^
 exp.notion.so^
-log.cmbchina.com^
-icloud.com^
-apple.com^
