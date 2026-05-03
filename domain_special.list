@@ -4,7 +4,6 @@ DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
@@ -20,3 +19,5 @@ DOMAIN-SUFFIX,openexchangerates.org
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,airbnb.com
 DOMAIN-SUFFIX,theaudiodb.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
