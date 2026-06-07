@@ -183,3 +183,5 @@ DOMAIN-SUFFIX,madrau.com
 DOMAIN-SUFFIX,orbstack.dev
 DOMAIN-SUFFIX,jeffz.page
 DOMAIN-SUFFIX,gnc.com
+DOMAIN-SUFFIX,brompton.com // Added for: dam.brompton.com:443
+DOMAIN-SUFFIX,seekingalpha.com // Added for: email-st.seekingalpha.com:443
