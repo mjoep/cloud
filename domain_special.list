@@ -22,3 +22,9 @@ DOMAIN-SUFFIX,theaudiodb.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,invideo.io
+DOMAIN-SUFFIX,sumsub.com, // Added for: api.sumsub.com:443
+DOMAIN-SUFFIX,appsflyersdk.com, // Added for: tn4dlw.skadsdkless.appsflyersdk.com:443
+DOMAIN-SUFFIX,iyzipay.com, 
+DOMAIN-SUFFIX,clarity.ms, 
+DOMAIN-SUFFIX,iyzico.com, 
+DOMAIN-SUFFIX,oyunfor.com,  // Added for: www.oyunfor.com:443
