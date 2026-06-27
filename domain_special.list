@@ -1,12 +1,5 @@
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-KEYWORD,apple-relay
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,guzzoni.apple.com
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,tech26.de
 DOMAIN-SUFFIX,n26.com
@@ -19,7 +12,6 @@ DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,airbnb.com
 DOMAIN-SUFFIX,theaudiodb.com
 DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,invideo.io
 DOMAIN-SUFFIX,sumsub.com, // Added for: api.sumsub.com:443
 DOMAIN-SUFFIX,appsflyersdk.com, // Added for: tn4dlw.skadsdkless.appsflyersdk.com:443
