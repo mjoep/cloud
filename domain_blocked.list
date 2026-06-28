@@ -186,3 +186,6 @@ DOMAIN-SUFFIX,gnc.com
 DOMAIN-SUFFIX,brompton.com // Added for: dam.brompton.com:443
 DOMAIN-SUFFIX,seekingalpha.com // Added for: email-st.seekingalpha.com:443
 DOMAIN-SUFFIX,namecheap.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,softonic.com
+DOMAIN-SUFFIX,epicgames.dev
