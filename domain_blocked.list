@@ -114,7 +114,6 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,hifini.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,jellyfin.org
-DOMAIN-SUFFIX,hub.docker.com
 DOMAIN-SUFFIX,scrypted.app
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
@@ -133,7 +132,6 @@ DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,clubsim.com.hk
 DOMAIN-SUFFIX,hostloc.com
-DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,toyota.com
 DOMAIN-SUFFIX,manus.im
