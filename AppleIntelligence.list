@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN-SUFFIX,aapps.mzstatic.com
+DOMAIN,api-siri-prod.apple.com
